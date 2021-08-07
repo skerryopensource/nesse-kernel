@@ -5,4 +5,6 @@
 #ifndef KERNEL_CPU_H
 #define KERNEL_CPU_H
 
+#define CPUID 0
+
 #endif //KERNEL_CPU_H
